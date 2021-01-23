@@ -1,0 +1,126 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Karl - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Karl is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform. It's super responsive for all      Desktop/Mobile layout.
+    :: Version: 1.0
+    :: Created: 09 January 2018
+    :: Last Updated: 09 January 2018
+    ---------------------------------------------------------- */
+
+    /* -------------------------------------------------
+    ============ PLACE YOUR CUSTOM CSS HERE ============
+    ------------------------------------------------- */
+    #karl-navbar{
+        padding-top: 35px;
+    }
+    .active{
+        background-color: #f0bfc2;
+    }
+    .cart_quantity{
+        background-color: #f0bfc2;
+    }
+    .cart{
+        padding-top: 35px;
+    }
+    .btn{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .btn:hover{
+        background-color: grey;
+        border-color: white;
+    }
+    #btn-cart{
+        background-color: grey;
+    }
+    #btn-checkout{
+        background-color: #f0bfc2;
+    }
+    .welcome_slides.owl-carousel .owl-dot.active {
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .product-description .add-to-cart-btn {
+        color: #f0bfc2;
+    }
+    .product-img > img {
+        height:400px;
+        width:300px;
+    }
+    .quickview_body .top_seller_product_rating > i{
+        color: #f0bfc2;
+    }
+    .quickview_body .cart-submit{
+        background-color: #f0bfc2;
+    }
+    .quickview_body .cart-submit:hover{
+        background-color: grey;
+    }
+    .catagory-content{
+        padding-left: 240px;
+    }
+    .single_catagory_area:after{
+        background-color: grey;
+    }
+    #shop_button{
+        background-color: grey;
+        border-color: grey;
+        margin-top: 350px;
+    }
+    #shop_button:hover{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+        color: white;
+
+    }
+    .karl-testimonials-slides.owl-carousel .owl-dot.active{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .single-testimonial-area{
+        background-color: white;
+        padding-bottom: 10px;
+    }
+    .testi-data{
+        color: white;
+    }
+    .subscribtion_form .submit{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2; 
+    }
+    .subscribtion_form .submit:hover{
+        background-color: grey;
+        border-color: white;
+    }
+    #scrollUp {
+        background-color: #f0bfc2;
+    }
+    #item{
+        background-color: white;
+    }
+    #addtocart{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;  
+    }
+    #addtocart:hover{
+        background-color: grey;
+        border-color: white; 
+    }
+    .single_product_desc .single_product_ratings i{
+       color: #f0bfc2; 
+    }
+    .active {
+       background-color: white; 
+    }
+    #pagination{
+        color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    #pagination1:hover{
+        color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .here{
+        background-color: #f0bfc2;
+    }
